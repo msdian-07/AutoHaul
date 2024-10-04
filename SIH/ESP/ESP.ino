@@ -11,8 +11,8 @@
 #define OBSTACLE_DISTANCE_THRESHOLD 20 
 #define WIFI_SSID "Abcdefg" 
 #define WIFI_PASSWORD "12349876" 
-#define FIREBASE_HOST "https://sih1336-default-rtdb.firebaseio.com/"
-#define FIREBASE_Authorization_key "AIzaSyDJW5GQS6PXb-S1PqTsqnA2c20xpjGD0Iw"
+#define FIREBASE_HOST "***********************************"
+#define FIREBASE_Authorization_key "*******************************8"
 String FBP="https://sih1336-default-rtdb.firebaseio.com";
 int Speed = 800; // initial speed 400-1024
 int SpeedDiv = 3;
